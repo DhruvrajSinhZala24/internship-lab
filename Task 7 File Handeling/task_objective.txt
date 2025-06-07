@@ -1,0 +1,17 @@
+Task : Basic File Handling
+
+Description:
+Develop a program that reads data from a
+text file, performs operations like finding
+and replacing specific words, and saves
+the modified data back to the file.
+
+Introduce error handling to manage file-
+related exceptions, ensuring the program
+
+handles different scenarios gracefully.
+
+Skills:
+File Input/Output in Python
+String Manipulation
+Exception Handling
