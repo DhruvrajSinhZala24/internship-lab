@@ -1,0 +1,15 @@
+Task : To-Do List Application
+
+Description:
+Build a to-do list application where users can
+add tasks, mark them as completed, and
+view their tasks. Utilize dictionaries or
+classes to represent tasks, including
+attributes like description and completion
+status. Implement user-friendly interfaces
+for task management.
+
+Skills:
+Basic Python Programming
+Data Structures (Dictionaries or Classes)
+Conditional Statements
